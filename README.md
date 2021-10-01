@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DanieleS
-- 👀 Estudante de desenvolvimento Back end.
+- 👀 Estudante de desenvolvimento Back end com foco em JavaScript.
+-  - Atualmente, trabalhando em projetos pessoais.
 - 💞️ I’m looking to collaborate on  projetos simples, para começar na área e ganhar experiências.
 -
 -  📫 How to reach me: fique a vontade para enviar e-mail ou mensagem de texto .
