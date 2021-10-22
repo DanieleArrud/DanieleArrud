@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanieleS
+A- 👋 Hi, I’m @DanieleArruda
 - 👀 Estudante de desenvolvimento Back end com foco em JavaScript.
 -  - Atualmente, trabalhando em projetos pessoais.
 - 💞️ I’m looking to collaborate on  projetos simples, para começar na área e ganhar experiências.
