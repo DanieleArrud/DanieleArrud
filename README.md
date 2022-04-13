@@ -1,9 +1,8 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/daniele-santos-arruda-33538b198/"><i>Daniele Arruda</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Faculdade ENIAC</i></a> 
-   <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
-  </a><br>
-  <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/daniele-santos-arruda-33538b198/"><i>Daniele Arruda</i></a> 💙:</h1>
+  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.eniac.com.br/?utm_term=eniac&utm_campaign=P+%7C+Institucional+%7C+GRU&utm_source=adwords&utm_medium=ppc&hsa_acc=6664519040&hsa_cam=1902032329&hsa_grp=68466587937&hsa_ad=450829083304&hsa_src=g&hsa_tgt=kwd-300767081224&hsa_kw=eniac&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMIpeaYhoOS9wIVBmGRCh2HfwCpEAAYASAAEgLAc_D_BwE"><i>Faculdade ENIAC</i></a> 
+   <br>
+  <p align="center"> Me siga e vamos aprender juntos esse universo imenso da programção! 😉️</h2>
 </div>
 
 
@@ -37,7 +36,7 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/daniele-santos-arruda-33538b198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:eduardo.duduribeiro1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="daniele.arruda@outlook.ocm.br"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
